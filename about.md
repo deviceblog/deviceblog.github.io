@@ -18,7 +18,11 @@ This is an evolving list of Interview Questions for Device Engineers.
 * BJTs
 * Implantation
 * Memory (Flash)
+1. What is the difference between NAND Flash and NOR Flash
 * SRAM
+1. How many transistors are needed to implement an SRAM cell ?
+2. Explain how an SRAM cell works
+3. What is the difference between SRAM and DRAM
 * SPICE Simulations
 * Thermal Simulations
 * Power MOSFETs
